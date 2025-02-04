@@ -1,8 +1,4 @@
-cd /workspace/class-variantcalling
-mkdir -p dataset_esercitazione_resequencing01     
-cd dataset_esercitazione_resequencing01                
-mkdir -p raw_data
-
+               
 #cliccare sulla cartella raw data, tasto destro e fare upload dei dati (case 1 e 2 e control 1 e 2). 
 #dopo aver caricato i dati lavorare sul terminale
 
@@ -10,10 +6,11 @@ mkdir -p raw_data
 cd /workspace/class-variantcalling
 mkdir -p analysis_01
 cd analysis_01
-
-## sym link so we do not change the repository itself
 mkdir -p raw_data
 cd raw_data
+
+###upload con tasto destro dei campioni
+
 cd ..
 mkdir -p alignment
 cd alignment
