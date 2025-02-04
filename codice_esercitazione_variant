@@ -178,4 +178,4 @@ filtered_variants.vcf \
 
 git add *
 git commit -m "variant interpretationesercitazioneresequencing1"
-git commit -m "variant interpretationesercitazioneresequencing1"
+git push
